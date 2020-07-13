@@ -12,7 +12,7 @@ Insertamos la captura de la planificación semana 13
 
 ## Con título indicamos: Planificación semana 14: 13 al 19 de julio 2020
 Insertamos la captura de la planificación semana 14
-* **Hito más importante de la semana**: Validación del modelo ABC / Exposición del trabajo al tribunal
+* **Hito más importante de la semana 14**: Completar documentación sobre el despliegue de la aruqitectura de microservicios en Cloud (Desarrollo)
 * **Actividades logradas**: 
 
 Y así seguiremos llenando hasta la semana 16.
